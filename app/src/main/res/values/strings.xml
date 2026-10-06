@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Touch Guard</string>
+    <string name="accessibility_service_name">Touch Guard Control</string>
+    <string name="accessibility_description">Allows Touch Guard to block screen touches and restore touch after six Volume Down presses.</string>
+</resources>
